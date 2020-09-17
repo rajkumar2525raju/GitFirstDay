@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="12313" started-at="2020-09-15T19:22:09Z" finished-at="2020-09-15T19:22:21Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="12313" started-at="2020-09-15T19:22:09Z" finished-at="2020-09-15T19:22:21Z">
+      <class name="org.project.ProjectDayOne">
+        <test-method status="PASS" signature="launchBrowser()[pri:0, instance:org.project.ProjectDayOne@55f3ddb1]" name="launchBrowser" is-config="true" duration-ms="3567" started-at="2020-09-15T19:22:09Z" finished-at="2020-09-15T19:22:12Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchBrowser -->
+        <test-method status="PASS" signature="AscendingOrder()[pri:0, instance:org.project.ProjectDayOne@55f3ddb1]" name="AscendingOrder" duration-ms="8082" started-at="2020-09-15T19:22:12Z" finished-at="2020-09-15T19:22:20Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AscendingOrder -->
+        <test-method status="PASS" signature="startTime()[pri:0, instance:org.project.ProjectDayOne@55f3ddb1]" name="startTime" is-config="true" duration-ms="0" started-at="2020-09-15T19:22:12Z" finished-at="2020-09-15T19:22:12Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startTime -->
+        <test-method status="PASS" signature="endTime()[pri:0, instance:org.project.ProjectDayOne@55f3ddb1]" name="endTime" is-config="true" duration-ms="0" started-at="2020-09-15T19:22:20Z" finished-at="2020-09-15T19:22:20Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- endTime -->
+        <test-method status="PASS" signature="exitBrowser()[pri:0, instance:org.project.ProjectDayOne@55f3ddb1]" name="exitBrowser" is-config="true" duration-ms="650" started-at="2020-09-15T19:22:20Z" finished-at="2020-09-15T19:22:21Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- exitBrowser -->
+      </class> <!-- org.project.ProjectDayOne -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
